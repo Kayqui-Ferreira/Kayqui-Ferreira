@@ -1,3 +1,4 @@
+<div align="center">
 # 💫 About Me:
 🔭I am currently pursuing a degree in systems analysis and development.<br>🤝 In the future, I am looking to collaborate on Pyhton and MySQL open source projects.<br>🌱I am currently learning MySQL and delving into Python.<br>⚡Ask me about books, technology, life... About anything you want, if I know I'll answer. Otherwise I say I'll research about
 
